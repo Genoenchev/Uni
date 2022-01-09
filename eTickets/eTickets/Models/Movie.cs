@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -18,5 +19,11 @@ namespace eTickets.Models
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public MovieCategory MovieCategory { get; set; }
+
+        public List<Actor_Movie> Actors_Movies { get; set; }
+        public Cinema Cinema { get; set; }
+        public Producer Producer { get; set; }
+        public int CinemaId { get; internal set; }
+        public int ProducerId { get; internal set; }
     }
 }
