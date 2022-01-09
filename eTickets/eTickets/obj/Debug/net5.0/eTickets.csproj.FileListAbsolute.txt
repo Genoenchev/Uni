@@ -73,3 +73,8 @@ D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
 D:\Projects\Github\Uni\eTickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
