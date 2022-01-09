@@ -1,5 +1,6 @@
 ﻿using eTickets.Models;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -15,12 +16,12 @@ namespace eTickets.Data
             using (var serviceScope = applicationBuilder.ApplicationServices.CreateScope())
             {
                 var context = serviceScope.ServiceProvider.GetService<AppDbContext>();
+
                 context.Database.EnsureCreated();
 
                 //Cinema
                 if (!context.Cinemas.Any())
                 {
-
                     context.Cinemas.AddRange(new List<Cinema>()
                     {
                         new Cinema()
@@ -65,32 +66,32 @@ namespace eTickets.Data
                         {
                             FullName = "Actor 1",
                             Bio = "This is the Bio of the first actor",
-                            ProfilePicURL = "http://dotnethow.net/images/actors/actor-1.jpeg"
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-1.jpeg"
 
                         },
                         new Actor()
                         {
                             FullName = "Actor 2",
                             Bio = "This is the Bio of the second actor",
-                            ProfilePicURL = "http://dotnethow.net/images/actors/actor-2.jpeg"
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-2.jpeg"
                         },
                         new Actor()
                         {
                             FullName = "Actor 3",
                             Bio = "This is the Bio of the second actor",
-                            ProfilePicURL = "http://dotnethow.net/images/actors/actor-3.jpeg"
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-3.jpeg"
                         },
                         new Actor()
                         {
                             FullName = "Actor 4",
                             Bio = "This is the Bio of the second actor",
-                            ProfilePicURL = "http://dotnethow.net/images/actors/actor-4.jpeg"
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-4.jpeg"
                         },
                         new Actor()
                         {
                             FullName = "Actor 5",
                             Bio = "This is the Bio of the second actor",
-                            ProfilePicURL = "http://dotnethow.net/images/actors/actor-5.jpeg"
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-5.jpeg"
                         }
                     });
                     context.SaveChanges();
@@ -316,6 +317,11 @@ namespace eTickets.Data
                     context.SaveChanges();
                 }
             }
-            }
+
         }
+
+        
+          
+        
     }
+}

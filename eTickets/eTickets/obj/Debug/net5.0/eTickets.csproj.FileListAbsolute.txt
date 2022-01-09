@@ -68,3 +68,8 @@ D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\eTickets.dll
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\eTickets.pdb
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
