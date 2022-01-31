@@ -90,3 +90,8 @@ D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\De
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummery\Default.cshtml.g.cs
