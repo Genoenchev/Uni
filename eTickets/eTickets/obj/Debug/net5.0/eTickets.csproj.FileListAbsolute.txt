@@ -95,3 +95,10 @@ D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Ind
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
 D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummery\Default.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\Projects\Github\Uni\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Info\Index.cshtml.g.cs
